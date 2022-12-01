@@ -1,0 +1,17 @@
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\bin\Debug\net6.0\GE.Infrastructure.deps.json
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\bin\Debug\net6.0\GE.Infrastructure.runtimeconfig.json
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\bin\Debug\net6.0\GE.Infrastructure.dll
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\bin\Debug\net6.0\GE.Infrastructure.pdb
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\bin\Debug\net6.0\GE.ApplicationCore.dll
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\bin\Debug\net6.0\GE.ApplicationCore.pdb
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\GE.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\GE.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\GE.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\GE.Infrastructure.AssemblyInfo.cs
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\GE.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\GE.Infrastructure.csproj.CopyComplete
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\GE.Infrastructure.dll
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\refint\GE.Infrastructure.dll
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\GE.Infrastructure.pdb
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\GE.Infrastructure.genruntimeconfig.cache
+C:\Users\karam\RiderProjects\GestionEquipe\GE.Infrastructure\obj\Debug\net6.0\ref\GE.Infrastructure.dll

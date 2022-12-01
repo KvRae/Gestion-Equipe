@@ -1,0 +1,12 @@
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\bin\Debug\net6.0\GE.ApplicationCore.deps.json
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\bin\Debug\net6.0\GE.ApplicationCore.dll
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\bin\Debug\net6.0\GE.ApplicationCore.pdb
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.AssemblyInfo.cs
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.dll
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\obj\Debug\net6.0\refint\GE.ApplicationCore.dll
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.pdb
+C:\Users\karam\RiderProjects\GestionEquipe\GE.ApplicationCore\obj\Debug\net6.0\ref\GE.ApplicationCore.dll
